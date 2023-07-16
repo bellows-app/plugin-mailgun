@@ -1,3 +1,3 @@
-# plugin-mailgun
+# Bellows Mailgun Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/mailgun](https://bellows.dev/docs/plugins/mailgun)
